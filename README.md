@@ -10,7 +10,7 @@
  #calendar
  
  #translator
- used google translate to translate major Indian languages
+ use google translate to translate major Indian languages
  
  #netspeed
  speed check include upload download and ping
