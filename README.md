@@ -4,6 +4,12 @@
  
  #youtube video downloader
  
+ #snake
+ Snake game . Wanna travel back to our childhood fun.All you have to do is run the file snake.py
+
+ #rock_paper_scissor
+ Its you vs the computer beat him just type rock/paper/scissors
+
  #url
  url shortner
  
