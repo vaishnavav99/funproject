@@ -4,7 +4,7 @@ x="n"
 while(x!='y'and x!='Y'):
     city = input("City/State \t")
     print("")
-    key = "ee6f57d9c17c78fb89d1f81a093db57f"
+    key = "<your api key>"
     url = "http://api.openweathermap.org/"
     url = url+"data/2.5/weather?appid="+key+f"&q={city}&units=metric"
     response = urlopen(url)
